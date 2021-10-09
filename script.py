@@ -21,7 +21,7 @@ Click <i>/help</i> for more details....</b>"""
 NOTE: Download may take some time! So please wait for it to complete!"""
 
 
-    ABOUT_TEXT = """⭕️<b>My Name : TroJanZ Zee5 DL</b>
+    ABOUT_TEXT = """⭕️<b>My Name : KOT Zee5 DL</b>
 
 ⭕️<b>Creater :</b> @KOT_BOTS
 
